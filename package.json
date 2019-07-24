@@ -1,0 +1,23 @@
+{
+  "name": "srvpro-side-restrict",
+  "version": "1.0.0",
+  "description": "An SRVPro plguin, restricting changing side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purerosefallen/srvpro-side-restrict.git"
+  },
+  "keywords": [
+    "srvpro",
+    "ygopro"
+  ],
+  "author": "Nanahira",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/purerosefallen/srvpro-side-restrict/issues"
+  },
+  "homepage": "https://github.com/purerosefallen/srvpro-side-restrict#readme"
+}
